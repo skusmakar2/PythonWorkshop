@@ -9,6 +9,9 @@ The workshop will be divided into four session covering:
 - Scientific libraries
 - Mini Project to develop predictive model
 
+Excess the cloud deployment on 
+https://mybinder.org/v2/gh/skusmakar2/PythonWorkshop/81eb5cfe071936916fc9e34c5ea6a6f09682b7c4
+
 
 Ongoing
 Credit
