@@ -1,7 +1,7 @@
 # PythonWorkshop
 Introduction to Python
 
-This is a introductory workshop for getting starting in Python.
+This is a introductory workshop for getting started in Python.
 
 The workshop will be divided into four session covering:
 - Basic Fundamentals and Data structures
